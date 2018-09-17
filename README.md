@@ -2,10 +2,10 @@
 
 Real time Graph using LiveChart library - Scatter Graph
 
-LiveChart Homepage : https://lvcharts.net/
-LiveChart Install Guide : https://lvcharts.net/App/examples/v1/wpf/Install
+LiveChart Homepage : https://lvcharts.net/  
+LiveChart Install Guide : https://lvcharts.net/App/examples/v1/wpf/Install  
 
-ScatterSeries Example : https://lvcharts.net/App/examples/v1/wpf/Scatter%20Plot
+ScatterSeries Example : https://lvcharts.net/App/examples/v1/wpf/Scatter%20Plot  
 
 변경 사항
  - Axis X / Y 고정
